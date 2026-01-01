@@ -7,7 +7,7 @@ The dataset was acquired on the campus of Shenzhen University, using a Unitree G
   <img src="/Figure/Data collection equipment.jpg" width="400">
 </p >
 
-In total, 12 data sequences were collected, covering diverse environments such as soft grass, rigid concrete, slopes, staircases, underground parking lots, narrow corridors, and long straight roads:
+In total, 22 data sequences were collected, covering diverse environments such as soft grass, rigid concrete, slopes, staircases, underground parking lots, narrow corridors, and long straight roads:
 
 <p align="center">
   <img src="/Figure/Scenarios covered in the dataset.jpg" width="800">
