@@ -1,5 +1,6 @@
-# Quadruped-SLAM-dataset
-A quadruped SLAM dataset covering diverse locomotion behaviors in complex environments, including uneven natural terrains with abrupt and gradual ascents and descents, high soft grass, deformable forest leaf litter, rigid concrete pavements, slopes, confined staircases with limited geometric features, underground parking lots, narrow corridors, long straight roads, and semi-outdoor environments with moderate structural clutter.
+# Quadruped-SLAM-dataset (QuadSLAM Dataset)
+
+A quadruped SLAM dataset contains leg kinematics (including joint encoders and contact sesors), IMU and LiDAR, covering diverse locomotion behaviors in complex environments, including uneven natural terrains with abrupt and gradual ascents and descents, high soft grass, deformable forest leaf litter, rigid concrete pavements, slopes, confined staircases with limited geometric features, underground parking lots, narrow corridors, long straight roads, and semi-outdoor environments with moderate structural clutter.
 
 The dataset is released in our paper which is published in 2026 ISPRS Journal of Photogrammetry and Remote Sensing, "[Gait-Aware Quadruped 3D Mapping in Challenging Environment with Complex Terrain](https://www.sciencedirect.com/science/article/abs/pii/S0924271626000614)".
 
